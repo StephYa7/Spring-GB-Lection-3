@@ -1,7 +1,7 @@
-package st.Service;
+package st.SpringGBLection3.Service;
 
 import org.springframework.stereotype.Service;
-import st.Model.Task;
+import st.SpringGBLection3.Model.Task;
 
 import java.util.ArrayList;
 import java.util.List;

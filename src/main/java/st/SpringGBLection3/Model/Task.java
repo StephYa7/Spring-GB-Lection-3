@@ -1,4 +1,4 @@
-package st.Model;
+package st.SpringGBLection3.Model;
 
 import lombok.Data;
 
